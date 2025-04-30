@@ -1,5 +1,6 @@
 ## Hi there 👋
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumoro412&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumoro412&layout=compact&langs_count=7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **edumoro412/edumoro412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
