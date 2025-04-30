@@ -1,8 +1,7 @@
 ## Hi there 👋
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumoro412&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumoro412&layout=compact&langs_count=7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumoro412&layout=compact&langs_count=7&show_icons=true&theme=dracula)]
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edumoro412&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Profile views](https://komarev.com/ghpvc/?username=edumoro412&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/antonkomarev/github-profile-views)
 
 <!--
 **edumoro412/edumoro412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
