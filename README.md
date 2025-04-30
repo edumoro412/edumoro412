@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Desarrollador con interés en explorar y construir soluciones innovadoras en el ámbito del desarrollo web y de software. Actualmente enfocado en el aprendizaje y la aplicación de tecnologías full-stack, con un enfoque particular en React y Node.js. Busco oportunidades para colaborar en proyectos desafiantes y contribuir al crecimiento de equipos y comunidades.
+Desarrollador con interés en explorar y construir soluciones innovadoras en el ámbito del desarrollo web y de software. Actualmente enfocado en el aprendizaje y la aplicación de tecnologías full-stack.
 
 ### Mis estadísticas de GitHub de un vistazo:
 
@@ -14,4 +14,4 @@ Puedes contactarme por correo electrónico a: [edumoro2003@gmail.com](mailto:edu
 
 ---
 
-Gracias por visitar mi perfil. ¡Espero conectar contigo!
+Gracias por visitar mi perfil. 
