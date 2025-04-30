@@ -4,7 +4,7 @@ Desarrollador con interés en explorar y construir soluciones innovadoras en el 
 
 ### Mis estadísticas de GitHub de un vistazo:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edumoro412&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariomunilla&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edumoro412&layout=compact&langs_count=7&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edumoro412&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
