@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Eduardo%20Moro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=a78bfa&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4965,100:bee9e8&height=200&section=header&text=Eduardo%20Moro&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=bee9e8&animation=fadeIn)
 
 </div>
 
@@ -40,16 +40,33 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edumoro412&theme=tokyonight)](https://github.com/edumoro412)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edumoro412&theme=tokyonight)](https://github.com/edumoro412)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=edumoro412&theme=tokyonight)](https://github.com/edumoro412)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edumoro412&theme=tokyonight)](https://github.com/edumoro412)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edumoro412&theme=tokyonight&utcOffset=1)](https://github.com/edumoro412)
+
+</div>
+
+---
+
 ## 📬 Contacto
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/edumoro2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edumoro2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-moro-dev/)
 
 </div>
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:bee9e8,50:1b4965,100:0d1b2a&height=100&section=footer)
 
 </div>
